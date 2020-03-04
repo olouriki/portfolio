@@ -1,6 +1,9 @@
+# Text preprocessing with spaCy and NLTK
+
 import re
 import time
 import en_core_web_sm
+from nltk.stem import WordNetLemmatizer 
 from api import settings
 from api.rest.utils import loader
 
