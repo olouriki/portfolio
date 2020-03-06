@@ -1,4 +1,4 @@
-# Welcome to my portfolio.
+# Welcome to my GitHub repository.
 
 Here you will find a sample of the personal projects I have carried out.
 
