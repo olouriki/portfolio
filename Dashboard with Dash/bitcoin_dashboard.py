@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 16 18:23:07 2021
 
-@author: louri
+@author: louriki
 """
 
 import plotly.express as px
