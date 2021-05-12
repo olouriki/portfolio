@@ -66,5 +66,4 @@ Here is the non-exhaustive list of functionalities:
 
 # IV – Technical environment
 
-![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="drawing" width="200"/>
