@@ -1,3 +1,5 @@
+Update : The website www.diagonai.ai is opening very soon
+
 # I - Presentation
 
 My project is to build a cross-platform dashboard (web site, mobile application, …) for the finance domain which will propose many functionalities using AI. The application is aimed to respond to the increasing growth and popularity of the cryptocurrency market. 
